@@ -1,4 +1,5 @@
 <?php
+echo 'test';
   function smart_resize_image($file,
                               $string = null,
                               $width = 0,
